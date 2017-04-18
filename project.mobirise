@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 12,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/128x131-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/128x115.png",
     "noImageResize": "",
     "cookiesAlert": ""
   },
@@ -57,10 +57,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -158,7 +158,7 @@
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#2b0680",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
