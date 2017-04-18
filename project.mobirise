@@ -278,10 +278,12 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#ffffff"
             }
           },
           "_tags": [
