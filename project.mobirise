@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.otex-web.tk/contact..html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.otex-web.tk/contact..html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
         },
         {
           "_inherit": "content5",
@@ -268,7 +268,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.otex-web.tk/contact..html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.otex-web.tk/contact..html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
         },
         {
           "_inherit": "content5",
