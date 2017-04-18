@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 21,
+    "uniqCompNum": 31,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x115.png",
     "noImageResize": "",
@@ -608,6 +608,209 @@
           "title": "אבטחת האתר.",
           "text": "אתרינו מאובטחים מפני התקפות כגון DDOS , חדירה ועוד. <br>כמו כן, התקשורת בין המשתמש לאתר מוצפנת באמצעות SSL <br>דבר שאף מסייע לקידום האתר.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-s",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "title1": "מהירות היא שם המשחק",
+          "subtitle1": "יש לקוחות שיעזבו את האתר אם הוא לא יטען מהר",
+          "caption1": "לכן אנו מקפידים שאתרינו יעלו במהירות שיא ע\"מ שלא נאבד לקוחות פוטנציאלים.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "שירות מהיר",
+          "subtitle2": "בוא לא נבזבז זמן",
+          "caption2": "אנו מיומנים בבניית אתרים במהירות וביעילות.<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "עיצוב מנצח",
+          "subtitle3": "האתרים שלנו נבנים תוך כדי חשיבה מחוץ לקופסה ויצירתיות מתמדת.",
+          "caption3": "אנו מקפידים על עיצוב חדשני,נוח ומרהיב<br> שימנף את הפרסום והשיווק שלך.<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "לבנות מהלב",
+          "subtitle4": "פה בשבילכם",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">אנחנו אוהבים לבנות אתרים ולעזור לבעלי תאגידים, חברות ועסקים להתקדם. נקפיד תמיד לתת לכם שירות אישי מהלב.</span><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "testimonial": [
+            {
+              "text": "<p>קיבלתי שירות מהיר מאוד. האתר עוצב ברמה מקצועית ביותר ומדורג בין המקומות הראשונים בגוגל. רמת הגימור ונוחות השימוש באתר מעל לצפיות.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "חן.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>מודה לכם מקרה לב על השירות והיחס החם. בניתם לי אתר ברמה בינלאומית בזמן קצר. נתתם יחס לפרטים הקטנים ביותר לתמונות ללוגו לפונטים ולעוד אינספור זוטות  שעשו את ההבדל. קצרה היריעה להביע את תודתי.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "יוסי.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>האתר נטען המהירות שיא. העיצוב חדשני ועכשווי. לעולם לא האמנתי שיצא אתר ברמה כה גבוהה. שמח שבחרתי בכם.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "אסף.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-o",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false
+          },
+          "title": "לקוחות מספרים עלינו:",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },

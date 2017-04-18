@@ -653,6 +653,12 @@ h6,
   text-align: center;
   color: #ffffff;
 }
+#features2-s .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#testimonials4-o .mbr-section-title {
+  color: #ffffff;
+}
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
