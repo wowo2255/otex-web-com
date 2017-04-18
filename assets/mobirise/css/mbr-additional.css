@@ -504,11 +504,11 @@ h6,
   color: #ffffff;
 }
 #menu-a .link {
-  font-size: 1.3rem;
+  font-size: 1.45rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 1.408rem;
+  font-size: 1.570rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
@@ -603,11 +603,11 @@ h6,
   color: #ffffff;
 }
 #menu-c .link {
-  font-size: 1.3rem;
+  font-size: 1.45rem;
 }
 #menu-c .dropdown-item,
 #menu-c .nav-dropdown-sm .link {
-  font-size: 1.408rem;
+  font-size: 1.570rem;
 }
 #menu-c .link:hover,
 #menu-c .dropdown-item:hover,
@@ -661,6 +661,9 @@ h6,
   background-color: #2e2e2e;
 }
 #testimonials4-o .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials4-o .card-footer > div {
   color: #ffffff;
 }
 #footer1-19 P {
