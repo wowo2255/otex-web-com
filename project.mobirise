@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "index.html",
+    "currentPage": "connect.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -641,6 +641,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-s",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -754,12 +759,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "testimonials2",
@@ -767,6 +767,11 @@
             "Theme"
           ],
           "_name": "testimonials4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>קיבלתי שירות מהיר מאוד. האתר עוצב ברמה מקצועית ביותר ומדורג בין המקומות הראשונים בגוגל. רמת הגימור ונוחות השימוש באתר מעל לצפיות.</p>",
@@ -816,6 +821,9 @@
             "count": 3,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
@@ -825,18 +833,10 @@
             "overlayOpacity": "0.5",
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "לקוחות מספרים עלינו:",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [
@@ -919,10 +919,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.45rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.570rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1044,7 +1044,7 @@
           "title1": "הטלפון שלנו",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לחץ לחיוג מהיר&nbsp; 08-9404992</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:97289404992\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לחץ לחיוג מהיר&nbsp; 08-9404992</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -1172,6 +1172,12 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
           "_anchor": "footer1-19",
           "_params": {
             "paddingTop": 2,
@@ -1185,13 +1191,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "התקשרו עכשיו: <br><b> 08-9404992</b><br>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "22px"
-            }
-          }
+          "text": "התקשרו עכשיו: <br><b> 08-9404992</b><br>"
         }
       ]
     }
