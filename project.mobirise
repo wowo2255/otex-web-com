@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "about.html",
+    "currentPage": "WHY-WE.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -450,7 +450,7 @@
             }
           },
           "title": "אתרינו תומכים בכל הפלטפורמות",
-          "text": "בכל מערכת הפעלה ובכל מכשיר.<br>במחשב, בנייד, בפלאפון<br> בלפטופ ובכל מכשיר.<br>",
+          "text": "בכל מערכת הפעלה,<br>במחשב, בנייד, בפלאפון<br> בלפטופ ובכל מכשיר.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
