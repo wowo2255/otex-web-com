@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x115.png",
     "noImageResize": "",
@@ -173,6 +173,32 @@
           },
           "title": "<span style=\"font-weight: normal;\">פרסום ושיווק <br>העסק באינטרנט!<br>יעיל מהיר</span><br><span style=\"font-weight: normal;\"> ובמחיר הוגן!</span><div><span style=\"font-weight: normal;\">יותר חשיפה, יותר לקוחות ,יותר הכנסות!</span></div><div><span style=\"font-weight: normal;\">התקשרו עכשיו!</span></div>",
           "caption": "<p><b>08-9404992</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "footer1-1g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "אוטקב ווב - בניית אתרים בבאר שבע."
         }
       ]
     },
