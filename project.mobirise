@@ -7,17 +7,17 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#000000",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "secondaryColor": "#ffffff",
+        "successColor": "#ffffff",
+        "infoColor": "#ffffff",
+        "warningColor": "#ffffff",
+        "dangerColor": "#ffffff",
         "titleFont": "Open Sans",
         "subtitleFont": "Open Sans",
         "textFont": "Open Sans",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": true
       }
     },
@@ -397,7 +397,7 @@
             },
             "H3": {
               "text-align": "center",
-              "color": "#2b0680"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -553,7 +553,7 @@
             },
             "H3": {
               "text-align": "center",
-              "color": "#2b0680"
+              "color": "#ffffff"
             }
           },
           "_tags": [
