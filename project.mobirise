@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "connect.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x115.png",
     "noImageResize": "",
@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#171c2c"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#232c44!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#28324e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -125,7 +125,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br></a>",
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
         },
         {
@@ -208,13 +208,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#171c2c"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#232c44!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#28324e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -267,7 +267,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br></a>",
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
         },
         {
@@ -311,6 +311,32 @@
           },
           "title": "אודותינו",
           "caption": "<p>אנו מתמחים בבניית אתרים באינטרנט. בפרסום עסקים באינטרנט והבאת לקוחות לעסק שלך. המטרה שלנו שתגדיל את הכנסותיך - יותר חשיפה - יותר מתעניינים - יותר לקוחות - יותר הכנסות. אנו בונים אתרים מקצועיים רספונסיבים שמתאימים לכל הפטפורומות, מערכות ההפעלה והמכשירים. כך האתר שלך יראה הכי טוב גם בטאבלט גם במחשב וגם בסמארטפון. המבנה והעיצוב יותאם לגודל המסך מכל הבחינות בין השאר: מהירות גלישה, צריכת סוללה, גודל הלחצים והממשק וכ'ו. אתרינו הינם בעל אבטחה חזקה ומנשתמשים ב https &nbsp;ע\"מ לאבטח את האתר. אבטחה של האתר מתבטאת במערכות מתקדמות נגד תקיפות להפלתו &nbsp;כגון ddos &nbsp;ועוד. אנו מקדמים אתרים מנצחים ע\"מ שהעסק שלך יופיע במקומות הראשונים בגוגל וייתן לך את החשיפה הנדרשת.&nbsp;</p><p><b><i>אנו מתעסקים בתחומים הבאים:</i></b></p><p>הקמת אתרים לעסקים ולחברות, בניית אתרים, עיצוב אתרים ,התאמת אתרים למובייל , בניית אתרים למובייל, בניית אתרים סטטיים,בניית עמודי נחיתה , בניית דפי נחיתה, האצת האתר, ייעול קוד, שיפור seo של אתר, פרסום אתרים בניו מדיה,כתיבת תוכן שיווקי לאתרים, כתיבת תוכן לאתרים, קידום אתרים בגוגל , קידום אתרים במנועי החיפוש, קידום העסק בגוגל , קידום בגוגל אדוורדס, קידום בניית אתרים לעסקים בבאר שבע, בניית אתרים לעסקים קטנים בבאר שבע, רכישת דומיין , רכישת אחסון , אחסון אתרים, בניית אתרים רספונסיבים, בניית אתרים לסלולריים, בניית אתרי תדמית, בניית אתר תדמית, שיווק באינטרנט, קידום ארגוני, קידום ממומן, קידום אורגני, SEO , גרסה ניידת לאתר, קידום אורגני של האתר גוגל, קידום האתר באמצעות מודעות פרסומיות, רכישת דומיין , רכישת אחסון , כתיבה שיווקית, וידאו לאתרים, בדיקת תוכן, בניית אתרי תדמית.</p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "footer1-19",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "התקשרו עכשיו: <br><b> 08-9404992</b><br>"
         }
       ]
     },
@@ -539,7 +565,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br></a>",
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
         },
         {
@@ -811,6 +837,32 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "footer1-19",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "התקשרו עכשיו: <br><b> 08-9404992</b><br>"
         }
       ]
     },
@@ -935,7 +987,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br></a>",
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
         },
         {
@@ -1114,6 +1166,32 @@
           },
           "text": "חפשו אותנו ב:",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/%D7%90%D7%95%D7%98%D7%A7%D7%A1-%D7%95%D7%95%D7%91-%D7%91%D7%A0%D7%99%D7%99%D7%AA-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%A8-%D7%A9%D7%91%D7%A2-08-9404992-1024608544332496/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-19",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "התקשרו עכשיו: <br><b> 08-9404992</b><br>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          }
         }
       ]
     }
