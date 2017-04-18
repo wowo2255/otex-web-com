@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "index.html",
+    "currentPage": "WHY-WE.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -684,7 +684,7 @@
             }
           },
           "title1": "מהירות היא שם המשחק",
-          "subtitle1": "יש לקוחות שיעזבו את האתר אם הוא לא יטען מהר",
+          "subtitle1": "יש לקוחות שיעזבו את האתר<br> אם הוא לא יטען מהר",
           "caption1": "לכן אנו מקפידים שאתרינו יעלו במהירות שיא ע\"מ שלא נאבד לקוחות פוטנציאלים.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -700,7 +700,7 @@
           },
           "title2": "שירות מהיר",
           "subtitle2": "בוא לא נבזבז זמן",
-          "caption2": "אנו מיומנים בבניית אתרים במהירות וביעילות.<br><br>",
+          "caption2": "אנו מיומנים בבניית אתרים <br>במהירות וביעילות.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
