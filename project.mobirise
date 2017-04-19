@@ -58,10 +58,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "1.25rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "1.354rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -96,7 +96,7 @@
           "_anchor": "menu-9",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.45",
+            "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -226,10 +226,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "1.25rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "1.354rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -264,7 +264,7 @@
           "_anchor": "menu-a",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.45",
+            "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -287,8 +287,8 @@
               "linkInNewWindow": false,
               "name": "website-theme",
               "family": "MobiriseIcons",
-              "link": "https://www.otex-web.tk",
-              "size": 0,
+              "link": "index.html",
+              "size": "60",
               "active": true,
               "color": "#fac51c",
               "newWindow": false
@@ -524,10 +524,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "1.25rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "1.354rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -562,7 +562,7 @@
           "_anchor": "menu-c",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.45",
+            "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -585,8 +585,8 @@
               "linkInNewWindow": false,
               "name": "website-theme",
               "family": "MobiriseIcons",
-              "link": "https://www.otex-web.tk",
-              "size": 0,
+              "link": "index.html",
+              "size": "60",
               "active": true,
               "color": "#fac51c",
               "newWindow": false
@@ -949,10 +949,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "1.25rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "1.354rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -987,7 +987,7 @@
           "_anchor": "menu-j",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.45",
+            "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1010,8 +1010,8 @@
               "linkInNewWindow": false,
               "name": "website-theme",
               "family": "MobiriseIcons",
-              "link": "https://www.otex-web.tk",
-              "size": 0,
+              "link": "index.html",
+              "size": "60",
               "active": true,
               "color": "#fac51c",
               "newWindow": false
