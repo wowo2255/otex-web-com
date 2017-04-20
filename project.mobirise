@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 59,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/path2-9-128x93-1.png",
     "noImageResize": "",
@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"first-in-google.html\">איך להיות ראשון בגוגל</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
         },
         {
           "_inherit": "content5",
@@ -198,7 +198,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "אוטקב ווב - בניית אתרים בבאר שבע."
+          "text": "אוטקב ווב - בניית אתרים בבאר שבע.<br>"
         }
       ]
     },
@@ -295,7 +295,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"first-in-google.html\">איך להיות ראשון בגוגל</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
         },
         {
           "_inherit": "content5",
@@ -363,7 +363,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "אוטקב ווב - בניית אתרים בבאר שבע."
+          "text": "אוטקב ווב - בניית אתרים בבאר שבע.<br>"
         }
       ]
     },
@@ -1222,6 +1222,167 @@
             "overlayColor": "#444444"
           },
           "text": "אוטקב ווב - בניית אתרים בבאר שבע."
+        }
+      ]
+    },
+    "first-in-google.html": {
+      "settings": {
+        "title": "בניית אתרים בבאר שבע|08-9404992| איך להיות ראשון בגוגל",
+        "meta_descr": "פרסום ושיווק העסק באינטרנט, יעיל מהיר ובמחיר הוגן,יותר חשיפה, יותר לקוחות ,יותר הכנסות! 08-9404992"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.25rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.354rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1h",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.25",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "60",
+              "active": true,
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.otex-web.tk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"first-in-google.html\">איך להיות ראשון בגוגל</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"WHY-WE.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h1>איך להיות ראשון בגוגל ? איך לגרום לעסק שלנו להיות בדף הראשון בגוגל בתוצאה הראשונה ?&nbsp;<br>כיצד לפרסם נכון את העסק בגוגל ע\"מ להשיג יותר חשיפה ויותר לידים? איך לפרסם ולשווק את העסק שלך נכון בגוגל ? איך לקדם את האתר בגוגל ?</h1><p>קודם כל צריכים להבין איך גוגל בנוי. גוגל מחולק ל 2 חלקים. המודעות הראשונות הינם מודעות  ממומנות ולאחר מכן מופיעים אתרים רגילים שאינם ממומנים (קידום של אתרים אלה הנו קידום אורגני אותו אסקור בהמשך).</p><h2>קידום ממומן –גוגל אדוורדס:</h2><p>פרסום בגוגל אדוורדס הנו פרסום ע\"פ קליק כאשר על כל קליק ישנו מחיר מסוים שצריך לשלם לגוגל(ppc-pay per click).</p><p>לכל מילת חיפוש מחיר אחר ולרוב ככל שמילת חיפוש הנה יותר נפוצה כך המחיר לקליק יעלה.</p><p>לכן ע\"מ להופיע ראשונים בגוגל חייבים להשתמש בפרסום ממומן בגוגל או בשם הפורמלי: גוגל אדוורדס (adwords). היתרון בשיטה זו שלא רק שנקבל יותר לידים אלא שגם הליד יהיה יותר איכותי ולכן יחס ההמרה לכמות הקונים הנו סטטיסטית גדול יותר.</p><p>פרסום נכון בגוגל אדוורדס:&nbsp;</p><p>-צריך לחפש את מילות המפתח (keywords) שהכי מתאימות לעסק שלנו ויביאו לחשיפה מקסימלית.&nbsp;</p><p>- בכותרת של הפרסום מומלץ לשים את מספר הטלפון של העסק ככה הלקוח לא יצטרך להיכנס לעמוד נחיתה/ לאתר וככה גם נחסוך כסף על הקליק וגם נרוויח חשיפה.</p><p>- מומלץ להשתמש במילות חיפוש קרובות למילות החיפוש הנפוצות וככה לשמור על עלויות נמוכות.</p><p>-בדף נחיתה/ באתר ,מומלץ לנסח מודעה קצרה ומהירה עם כמה שפחות מלל ומספר הטלפון בענק. לעיתים מלל רב עלול לגרום ללקוח לסגור את הדף או להישאר בו ולא להתקשר וכך אנו עלולים להפסיד לידים.</p><p>יתרונות של פרסום ממומן:&nbsp;</p><p>אתם יכולים להיות באמת ראשונים בגוגל.</p><p>חסרונות:</p><p>עלות כספית.</p><h2>קידום אורגני -טבעי:</h2><p>אתר התדמית של העסק הנו הפנים של העסק ולכן יש לו חשיבות מכרעת.</p><p>ע\"מ שהאתר שלך יהיה ראשון בגוגל צריך תצרף של דברים. במדריך זה אשתדל לגעת בעיקרים שבהם:</p><p>בין הפרמטרים של גוגל לאתר איכותי זה כמות הגולשים traffic  והזמן הממוצע שהגולש שהה באתר. ולכן עלינו להקפיד על הכללים הבאים:</p><p>1.\tתוכן  - קידום תוכן שיווקי .ככל שיהיה יותר תוכן איכותי הדבר יעזור לקידום האתר בגוגל (seo). לכן עלינו ליצור או בלוג או מאמרים וכ'ו. יש לשים לב שהתוכן הנו איכותי וכמותי. וכך נרוויח מס' דברים :</p><p>א.\tגוגל יקדם את אתרינו. ב. נקבל יותר traffic – גולשים יכנסו לאתר. ג. גוגל יאנדקס את העמודים האלה וכך נופיע יותר פעמים בגוגל עם יותר מילות מפתח.</p><p>חשוב שהתוכן יהיה איכותי וכולל מילות מפתח שנכונות לנושא ועדכני. יש לשים גם דגש על סימני פיסוק , תחביר וכ'ו.</p><p>2.\tמהירות האתר – אתר שנטען לאט גוגל עלול שלא לקדם אותו. בעיה נוספת שאתרים איטיים לרוב ננטשים ע\"י הלקוחות שמאבדים סבלנות. לכן אנו צריכים לדאוג שהאתר שלנו יאוחסן על שרת מהיר. בנוסף , חשוב שהאתר יהיה על שרת זמין תמיד 24/7 . כמו כן אנו צריכים לבדוק שהאתר נכתב בקוד איכותי ויעיל שנטען מהר. שהתמונות באתר מכווצות לגודל מינימלי בהתאם למכשיר שממנו הגולש מגיע. ע\"מ להאיץ את מהירות האתר מומלץ להשתמש בשרתי cdn  , בדחיסת gzip  ב catch וכ'ו.</p><p>3.\tהתאמה לפלטפורמות- גוגל מקדם אתרים שמתאימים לכל המכשירים ומתאימים את עצמם לגודל המסך- לרוב אתרים רספונסיבים (responsive). כשאתרך מותאם לכל מכשיר אתה לא תפסיד לקוחות שינטשו את האתר כי הממשק שלו לא נוח לגלישה. לכן האתר צריך להתאים לכל גודל מסך לכל מכשיר ולכל מערכת הפעלה. כך שהלקוחות יוכלו לראות את האתר בטאבלט בפאלפון ,במובייל, בסללוארי, במחשב וכ'ו. צריך לתת דגש לממשק וגם ללחצנים ושכל פרט יתאים לכל גודל מסך.</p><p>4.\tאבטחה- אתר שמשתמש ב ssl  או tls  יופיע בכתובתו https במקום http  . כמו כן גם בדפדפן יופיע מפתח ירוק. כמו כן מומלץ לשים מערכות גיבוי על האתר והגנה מפני חדירה, מפני ddos  וכ'ו. מומלץ להשתמש במערכת כמו cloudflare  , incapsula או catchfly.</p><p>5.\tלינקים נכנסים/מפנים - BACKLINKS – ככל שיהיו יותר דומיינים ( אתרים) איכותיים ( בעלי pr  גבוהה) לאתר כך האתר שלנו יקודם בגוגל.</p><p>6.\tעיצוב- אולי זה לא משפיע באופן ישיר אבל זה משפיע באופן עקיף. עיצוב מרהיב עם ממשק נוח יגרום למשתמשים להישאר באתר ולקבל רושם ראשוני חיובי.</p><p>7.\tרשתות חברתיות – רשתות חברתיות כמו פייסבוק, טוויטר,  ערוץ יוטיוב וכ'ו שיפנו לאתר שלכם, ומהאתר שלכם יפנו אליהם.&nbsp;</p><p>8.\tתמונות וסרטוני וידיאו -יכולים להוביל לכך שהלקוחות יישארו באתר לצפות בהם וכך יהיו יותר זמן באתר.</p><p>9.\tעדכניות האתר – חשוב שהאתר יתעדכן מעת לעת. גוגל לא אוהב מצבות אינטרנטיות. במידה ואתם רוצים לעדכן אותו מומלץ שתהיה מערכת לניהול תוכן , כמו וורדפרס, ג'מולה (קוד פתוח) וכ'ו.</p><p>10.\tהפרטים הקטנים – faviction  ה icon  הקטן שמופיע בדפדפן. כותרות באתר – שרלוונטיות ונוגעות לנושא במדויק.</p><p>11.\tMeta Description &amp; TITLE- הכותרת צריכה להיות עד 70 תווים והתיאור עד 160 תווים, בכותרות בגוגל עדיף לשים את הסימן \"|\"  מאשר \"-\".&nbsp;</p><p>12.\tקוד איכותי ע\"פ התקן הבינלאומי. להימנע מלינקים \"שבורים\". הקוד צריך להיות יעיל ומהיר ככל האפשר.</p><p>13.\tקישורים לאתרים אחרים לחינם / אתרי פלאש flash  ואנימציות / ספאם/ - מכל אלה חשוב להימנע בבניית האתר. דברים אלה עלולים לגרוע מקידום אתרך.</p><p>14.\tבחירת דומיין –-domain  כתובת האתר- בבחירת הדומיין יש לבחור דומיין שאין לו היסטוריה בעיתית , ניתן לבדוק את ההיסטוריה של הדומיין באתר domaintools.com. כמו כן, מומלץ לבחור דומיין קצר שמתאים לשם העסק או עיסוקו. מומלץ לבחור בסיומת .com  או .co.il&nbsp;</p><p>15.\t היררכיה מסודרת – צריך שיהיה מבנה מסודר לאתר. לדוגמא , אם זה אתר תדמית יופיע בו במסודר עמודים כמו: עמודת הבית, אודות, גלריה, סליידר, צור קשר וכ'ו.</p><p>*חשוב לשים לב שפרטי ההתקשרות  ( טלפון ,אימייל, כתובת) מופיעים באתר בכל מקום וקל לראות אותם ,ע\"מ שהלקוחות יראו אותם.</p><p><br></p><h3>דרך מומלצת למדוד את השיווק בגוגל של האתר:</h3><p>google analytics -גוגל אנליטיקס – בעזרת כלי זה ניתן למדוד את כמות הכניסות , זמן של כל צופה, המכשיר ממנו נכנס לאתר, הזמן ששהה בכל עמוד וכ'ו. ולכן נוכל למדוד את כמות הכניסות והזמן הממוצע שכל גולש היה באתר. *ישנם אתרים אחרים שנותנים שירות דומה לגוגל אנליטיקס שהם גם מצויינים.</p><p><br></p><h4>מה זה עמוד נחיתה?</h4><p>אז קודם כל מה זה בעצם עמוד נחיתה ? עמוד נחיתה זה עמוד שהגולש נכנס אליו – \"נוחת\" אליו. ושמה בד\"כ ממלא פרטים וכך נוצרת רשימת תפוצה של המון לקוחות שניתן להתקשר אליהם במועד מאוחר יותר ולמכור להם שירות/מוצר. בד\"כ בגוגל ממומן – גוגל אדוורדס ישתמשו בעמוד נחיתה. בעמוד נחיתה יש לתת דגש על מלל קצר ומספר טלפון בענק וכמה שפחות \"רעשי רקע\" כדי שהלקוח לא  יעזוב את האתר.&nbsp;</p><h4>למה בכלל לבנות אתר ?  האם כל עסק צריך אתר ?&nbsp;</h4><p>בוא נגיד את האמת , העולם מתקדם טכנולוגית, ולכן גנו צריכים. אתר הנו הפנים של העסק , לקוחות יכולים לראות מוצרים או לרכוש אותם מרחוק. כמו כן ניתן בזמן אמת לתקשר עם הלקוחות. בנוסף,  לקוחות יכולים לראות אונליין את כל המוצרים והשירותים שהעסק מציע. שיווק ופרסום זה נושא חשוב , אחת הדרכים שידעו שהעסק שלכם קיים זה באמצעות אתר אינטרנט.</p><p>אתר באינטרנט לדעת רבים הנו הכלי שיווק הכי יעיל שיש ע\"מ להגדיל חשיפה והכנסות לעסק למול דרכי פרסום אחרות ( רדיו, טלוויזיה, ווטסאפ, פייסבוק,  עיתונות, שלטי חוצות, פלאיירים, מגנטים, מדבקות, פרסום על כלי תחבורה וכ'ו).&nbsp;</p><h4>מהו האתר הכי טוב ? איזו מערכת הכי טובה?&nbsp;</h4><p>זה מורכב. והתשובה האמתית היא שתלוי בלקוח ובמטרת האתר ולכל מטרה ישנם מס' אלטרנטיבות. לדוגמא לאתר בקוד פתוח יש יתרון שניתן להעביר אותו משרת לשרת בצורה פשוטה יחסית . עם זו ישנם חסרונות. קצרה היריעה מלהרחיב על סוגיה כה מורכבת , ולכן התשובה היא שמערכת האתר צריכה להיבנות ע\"פ הצורך הנכון.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "footer1-19",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "אוטקב ווב - בניית אתרים בבאר שבע.<br>"
         }
       ]
     }
