@@ -1400,7 +1400,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x931.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "אוטקס ווב | בניית אתרים בבאר שבע",
               "title": "אוטקס ווב | בניית אתרים בבאר שבע",
@@ -1461,7 +1461,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x931.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
               "link": "",
               "alt": "אוטקס ווב | בניית אתרים בבאר שבע",
               "title": "אוטקס ווב | בניית אתרים בבאר שבע",
@@ -1549,6 +1549,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "msg-box5-1p",
           "_params": {
             "imageSize": 50,
@@ -1595,15 +1603,7 @@
           },
           "title": "מהו האתר הכי טוב ? איזו מערכת הכי טובה?&nbsp;",
           "text": "זה מורכב. והתשובה האמתית היא שתלוי בלקוח ובמטרת האתר ולכל מטרה ישנם מס' אלטרנטיבות. לדוגמא לאתר בקוד פתוח יש יתרון שניתן להעביר אותו משרת לשרת בצורה פשוטה יחסית . עם זו ישנם חסרונות. קצרה היריעה מלהרחיב על סוגיה כה מורכבת , ולכן התשובה היא שמערכת האתר צריכה להיבנות ע\"פ הצורך הנכון.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
