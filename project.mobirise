@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "best-website.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1965,10 +1965,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "בניית אתר לעסק קטן|1",
+              "title": "בניית אתר חינם",
+              "linkInNewWindow": false
             }
           },
           "title1": "מהו האתר הכי טוב?",
@@ -1977,10 +1981,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "קידום אתרים בבאר שבע|2",
+              "title": "קידום אתרים בבאר שבע|2",
+              "linkInNewWindow": false
             }
           },
           "title2": "מדידת שיווק",
@@ -1989,10 +1997,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "בניית אתרים בבאר שבע|1",
+              "title": "בניית אתרים בבאר שבע|1",
+              "linkInNewWindow": false
             }
           },
           "title3": "מה זה עמוד נחיתה?",
@@ -2197,7 +2209,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x9333.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x9335.jpg",
               "link": "",
               "alt": "אוטקס ווב | בניית אתרים בבאר שבע",
               "title": "אוטקס ווב | בניית אתרים בבאר שבע",
@@ -2414,7 +2426,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-2000x13334.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-2000x13336.jpg",
               "link": "",
               "alt": "אוטקס ווב | בניית אתרים בבאר שבע",
               "title": "אוטקס ווב | בניית אתרים בבאר שבע",
