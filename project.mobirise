@@ -27,7 +27,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/path2-9-128x93-1.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "test-7758"
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
