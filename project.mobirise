@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "איך להיות ראשון בגוגל.html",
+    "currentPage": "404.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 198,
+    "uniqCompNum": 205,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/path2-9-128x93-1.png",
     "noImageResize": "",
@@ -176,6 +176,34 @@
           },
           "title": "<span style=\"font-weight: normal;\">פרסום ושיווק <br>העסק באינטרנט!<br>יעיל מהיר</span><br><span style=\"font-weight: normal;\"> ובמחיר הוגן!</span><div><span style=\"font-weight: normal;\">יותר חשיפה, יותר לקוחות ,יותר הכנסות!</span></div><div><span style=\"font-weight: normal;\">התקשרו עכשיו!</span></div>",
           "caption": "<p><b>08-9404992</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5j",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x997.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "בניית אתרים בבאר שבע|קידום אתרים בבאר שבע",
+              "title": "בניית אתרים בבאר שבע|קידום אתרים בבאר שבע",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "בניית אתרים זו אומנות.<br>"
         },
         {
           "_tags": [
@@ -2846,6 +2874,34 @@
           }
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5o",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "בניית אתרים וקידום אתרים",
+              "title": "בניית אתרים וקידום אתרים",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "תודה שביקרתם באתר. נשמח לסייע לכ בכל עת."
+        },
+        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -3406,6 +3462,61 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "image2",
+          "_anchor": "image2-5n",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x935.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "קידום אתרים בגוגל",
+              "title": "קידום אתרים בגוגל",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "הצטרפו אלינו וביחד נבנה לכם אתר מנצח."
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-5m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "עקבו אחרינו",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/%D7%90%D7%95%D7%98%D7%A7%D7%A1-%D7%95%D7%95%D7%91-%D7%91%D7%A0%D7%99%D7%99%D7%AA-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%A8-%D7%A9%D7%91%D7%A2-08-9404992-1024608544332496/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/101488813562006279093\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/otexweb089404992/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -3567,6 +3678,61 @@
           },
           "title": "אודותינו",
           "caption": "<p>אנו מתמחים בבניית אתרים באינטרנט. בפרסום עסקים באינטרנט והבאת לקוחות לעסק שלך. המטרה שלנו שתגדיל את הכנסותיך - יותר חשיפה - יותר מתעניינים - יותר לקוחות - יותר הכנסות. אנו בונים אתרים מקצועיים רספונסיבים שמתאימים לכל הפלטפורומות, מערכות ההפעלה והמכשירים. כך האתר שלך יראה הכי טוב גם בטאבלט גם במחשב וגם בסמארטפון. המבנה והעיצוב יותאם לגודל המסך מכל הבחינות בין השאר: מהירות גלישה, צריכת סוללה, גודל הלחצים והממשק וכ'ו. אתרינו הינם בעל אבטחה חזקה ומשתמשים ב https &nbsp;ע\"מ לאבטח את האתר. אבטחה של האתר מתבטאת במערכות מתקדמות נגד תקיפות להפלתו &nbsp;כגון ddos &nbsp;ועוד. אנו מקדמים אתרים מנצחים ע\"מ שהעסק שלך יופיע במקומות הראשונים בגוגל וייתן לך את החשיפה הנדרשת.&nbsp;</p><p><b><i>אנו מתעסקים בתחומים הבאים:</i></b></p><p>הקמת אתרים לעסקים ולחברות, בניית אתרים, עיצוב אתרים ,התאמת אתרים למובייל , בניית אתרים למובייל, בניית אתרים סטטיים,בניית עמודי נחיתה , בניית דפי נחיתה, האצת האתר, ייעול קוד, שיפור seo של אתר, פרסום אתרים בניו מדיה,כתיבת תוכן שיווקי לאתרים, כתיבת תוכן לאתרים, קידום אתרים בגוגל , קידום אתרים במנועי החיפוש, קידום העסק בגוגל , קידום בגוגל אדוורדס, קידום בניית אתרים לעסקים בבאר שבע, בניית אתרים לעסקים קטנים בבאר שבע, רכישת דומיין , רכישת אחסון , אחסון אתרים, בניית אתרים רספונסיבים, בניית אתרים לסלולריים, בניית אתרי תדמית, בניית אתר תדמית, שיווק באינטרנט, קידום ארגוני, קידום ממומן, קידום אורגני, SEO , גרסה ניידת לאתר, קידום אורגני של האתר גוגל, קידום האתר באמצעות מודעות פרסומיות, רכישת דומיין , רכישת אחסון , כתיבה שיווקית, וידאו לאתרים, בדיקת תוכן, בניית אתרי תדמית.</p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5l",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1121.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "בניית אתרים לעסקים בבאר שבע",
+              "title": "בניית אתרים לעסקים בבאר שבע",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "בניית אתרים מרהיבים באינטרנט."
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-5k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "עקבו אחרינו",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/%D7%90%D7%95%D7%98%D7%A7%D7%A1-%D7%95%D7%95%D7%91-%D7%91%D7%A0%D7%99%D7%99%D7%AA-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%A8-%D7%A9%D7%91%D7%A2-08-9404992-1024608544332496/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/101488813562006279093\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/otexweb089404992/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
