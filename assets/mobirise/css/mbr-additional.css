@@ -1075,6 +1075,10 @@ h6,
   color: #ffffff;
   font-size: 22px;
 }
+#social-buttons4-59 .mbr-section-title,
+#social-buttons4-59 .btn-social {
+  color: #fff;
+}
 #menu-2d .hide-buttons .nav-btn {
   display: none !important;
 }
