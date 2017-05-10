@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "404.html",
+    "currentPage": "האתר הכי טוב.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 191,
+    "uniqCompNum": 198,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/path2-9-128x93-1.png",
     "noImageResize": "",
@@ -745,8 +745,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-4g",
+          "_name": "image2",
+          "_anchor": "image2-5g",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -755,16 +755,15 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-5-1400x933.jpg",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-10-1400x933.jpg",
               "width": 1400,
               "link": "",
               "alt": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
               "title": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
-              "class": "mbr-embedded-video",
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
@@ -1501,7 +1500,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-5-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-8-1400x933.jpg",
               "width": 1400,
               "link": "",
               "alt": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
@@ -2399,8 +2398,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-50",
+          "_name": "image2",
+          "_anchor": "image2-5b",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -2409,16 +2408,15 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-5-1400x933.jpg",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x2097.jpg",
               "width": 1400,
               "link": "",
               "alt": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
               "title": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
-              "class": "mbr-embedded-video",
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
@@ -2456,8 +2454,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-53",
+          "_name": "image2",
+          "_anchor": "image2-5d",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -2466,16 +2464,15 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x815.jpg",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-9-1400x933.jpg",
               "width": 1400,
               "link": "",
-              "alt": "בניית אתרים בבאר שבע|עיצוב אתרים בבאר שבע",
-              "title": "בניית אתרים בבאר שבע|עיצוב אתרים בבאר שבע",
-              "linkInNewWindow": false,
-              "active": true
+              "alt": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
+              "title": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
+              "linkInNewWindow": false
             },
             "video": {
-              "class": "mbr-embedded-video",
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
@@ -3719,8 +3716,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-4z",
+          "_name": "image2",
+          "_anchor": "image2-5f",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -3729,20 +3726,19 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-5-1400x933.jpg",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x929.jpg",
               "width": 1400,
               "link": "",
               "alt": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
               "title": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
-              "class": "mbr-embedded-video",
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "חשוב למדוד את השיווק והפרסום שלכם ע\"י כלים מתאימים."
+          "text": "חשוב למדוד את השיווק והפרסום של העסק."
         },
         {
           "_tags": [
@@ -3984,7 +3980,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-57",
+          "_anchor": "image2-5h",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -3994,7 +3990,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-11-1400x933.jpg",
               "width": 1400,
               "link": "",
               "alt": "בניית אתרי אינטרנט בבאר שבע",
@@ -4005,7 +4001,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "באיזו מערכת לבחור ?"
+          "text": "באיזו מערכת לבחור?"
         },
         {
           "_tags": [
@@ -4036,8 +4032,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-58",
+          "_name": "image2",
+          "_anchor": "image2-5e",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -4046,16 +4042,15 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-6-1400x933.jpg",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x935.jpg",
               "width": 1400,
               "link": "",
-              "alt": "בניית אתרים בבאר שבע|עיצוב אתרים בבאר שבע",
-              "title": "בניית אתרים בבאר שבע|עיצוב אתרים בבאר שבע",
-              "linkInNewWindow": false,
-              "active": true
+              "alt": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
+              "title": "בניית אתרים באינטרנט|קידום אתרים באינטרנט",
+              "linkInNewWindow": false
             },
             "video": {
-              "class": "mbr-embedded-video",
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
