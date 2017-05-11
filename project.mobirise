@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "הבלוג-עמוד 2.html",
+    "currentPage": "הבלוג.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2291,7 +2291,7 @@
           },
           "title": "לעמוד הבא",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"הבלוג-עמוד 2.html\" data-toolbar=\"-mbrBtnMove\">2</a>"
         },
         {
           "_tags": [
