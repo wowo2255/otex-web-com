@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "הבלוג.html",
+    "currentPage": "הבלוג-עמוד 2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 230,
+    "uniqCompNum": 240,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/path2-9-128x93-1.png",
     "noImageResize": "",
@@ -4412,16 +4412,16 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "כתיבת המאמר המושלם.html",
               "alt": "עיצוב אתרים למובייל בבאר שבע",
               "title": "בניית אתרים למובייל בבאר שבע",
               "linkInNewWindow": false
             }
           },
-          "title2": "איך להיות ראשון בגוגל ע\"י כתיבת תוכן",
+          "title2": "איך להיות ראשון בגוגל ע\"י כתיבת תוכן שיווקי",
           "subtitle2": "איך לכתוב את המאמר המושלם",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"איך לעקוף את המתחרים בגוגל.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"כתיבת המאמר המושלם.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
           "media3": {
             "image": {
               "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/coworkers.jpg",
@@ -4947,6 +4947,321 @@
             }
           },
           "_anchor": "footer1-6c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "אוטקב ווב - בניית אתרים בבאר שבע.<br><a href=\"tos.html\">תנאי שימוש ומדיניות פרטיות</a>"
+        }
+      ]
+    },
+    "כתיבת המאמר המושלם.html": {
+      "settings": {
+        "title": "אוטקס ווב|08-9404992|איך לכתוב את המאמר המושלם כדי להיות ראשון בגוגל",
+        "meta_descr": "מה זה עמוד נחיתה? איך בונים עמוד נחיתה? האם כדי לבנות עמוד נחיתה או אתר אינטרנט. טיפים ועצות לעמוד נחיתה. הקמת עמוד נחיתה מאפס במהירות.",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.25rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.354rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6e",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.25",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "60",
+              "active": true,
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"צור קשר.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"הבלוג.html\">הבלוג</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"אודות.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"למה אנחנו.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6g",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x929.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "בניית אתרים בבאר שבע|בניית אתר תדמית בבאר שבע",
+              "title": "בניית אתרים בבאר שבע|בניית אתר תדמית בבאר שבע",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "22px"
+            },
+            "H2": {
+              "font-size": "30px"
+            },
+            "H1": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "content1-6h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h1></h1><h1><span style=\"color: inherit;\">איך לכתוב תוכן איכותי ורלוונטי ? איך לכתוב מאמר שיכול לקדם אתכם בגוגל למקומות הראשונים ?</span></h1><h1><span style=\"text-align: right; line-height: 1.5; font-size: 30px;\">מהם השיטות שגוגל מדרג את התוכן לפיהם ? איך למשוך לקוחות אמתיים ( אורגניים) לאתר ?</span></h1><h1 style=\"text-align: start; \"><span style=\"font-size: 22px; font-weight: 300; text-align: right; line-height: 1.5;\">ע\"פ מס' מאמרים מגוגל, גוגל הולכת להעניש אתרים שמפרסמים פרסומות שמפריעות לגולש להשיג את המידע שלו הוא כה זקוק.</span><br></h1><p><br></p><h2 style=\"text-align: start; \"><span style=\"text-align: right; line-height: 1.5;\">איך לכתוב את המאמר המושלם לגוגל ולגולשים שיעשה לנו קידום מהיר ויביא לנו כסף לעסק?</span></h2><h3><span style=\"text-align: right; line-height: 1.5;\">12 טיפים שיגרמו לכם לכתוב מאמר מנצח:</span></h3><h2 style=\"text-align: start; \"><span style=\"text-align: right; line-height: 1.5;\">&nbsp;</span><b style=\"font-size: 22px; text-align: right; line-height: 1.5;\">1. כותרות: </b></h2><h2 style=\"text-align: start; \"><span style=\"font-size: 22px; text-align: right; line-height: 1.5; font-weight: normal;\">זהו לא סוד שאנשים רבים קוראים קודם את הכותרות ורק אז עוברים לשאר התוכן. לכן יש לנו זמן מועט מאוד להשאיר את הלקוח באתר. ואם בשלב הראשוני של כניסת הלקוח לאתר הלקוח לא יתחבר לכותרות (גם אם ייתכן שהתוכן בהמשך יעזור לו ויעניין אותו) אנו עלולים לאבד אותו. ולכן על כותרת להיות עניינית, רלוונטית ומושכת - מעין טיזר שיגרום למתח ללקוח שתגרום לו לקרוא את המשך הכתבה.</span></h2><h2 style=\"text-align: start; \"></h2><p><b style=\"font-size: 22px; text-align: right; line-height: 1.5;\">אז איך כותבים כותרות שתשאיר את הלקוחות באתר ?</b></p><p><b style=\"font-size: 22px; text-align: right; line-height: 1.5;\">1.1 טיזרים - </b><span style=\"font-size: 22px; text-align: right; line-height: 1.5;\">כותרות שנותנות מידע מעניין אבל לא נותנת את כל הרעיון לדוגמא:\" בוא ללמוד איך לעשות מליון דולר בשעה\".</span></p><p><b>1.2 אורך הכותרת משמעותי-</b>כותרות לא ארוכות מידי עד כ 60 תווים שממוקדות מאוד. מה גם שגוגל עלול לחתוך כותרות ארוכות מידי במנוע החיפוש.</p><p><b>1.3 להשתמש בנקודותיים (:) ובמספרים -</b>אנשים אוהבים רשימות. ולכן לכתוב כותרות כמו: \" 5 טיפים להצלחה עסקית\".</p><p><b>1.4 הניעו את הגולש לפעולה</b>- \"בואו ללמוד איך לעשות כסף מהר\".</p><p><b><br></b></p><p><b>2. המאמר/התוכן:</b></p><p><b> </b>עלינו לכתוב על מה שמענייןאת הלקוחות שלנו! לא מה שאנו יודעים. לא מה שאנחנו חושבים שהלקוחות שלנו רוצים. אלא מה שהלקוחות שלנו באמת רוצים. ולכן עלינו לעשות סקר בגוגל ולבדוק מה הכותרות הרלוונטיות ביותר בגוגל לתחום שאנו כותבים עליו. כדי לבדוק מה אנשים רוצים צריך לעשות חקר שוק מסודר.-A/B טסטינג -לנסות כמה סוגים של מאמרים ורעיונות ולבדוק לאיפה הגולשים נכנסו ומה היה זמן הממוצע של הגלישה שלהם.ושם לשים את המשאבים שלנו ואת הזמן שלנו.את המאמרים האלה -שהלקוחות הכי רוצים נכתוב.</p><p>דוגמא לאתר שיראה לנו לפי מילות מפתח מהם המאמרים והאתרים הכי פפולארים.</p><p>http://buzzsumo.com</p><p><b><br></b></p><p><b>3. מחקר מילות מפתח:</b></p><p><b> </b>עלינו לשלב מילות מפתח בכל המאמרים שלנו. חשוב לשלב אותן באופן אלגנטי ולא בצורה שזה יראה כשורה של טלאים. כמו כן, חשוב שנדע לבחור את מילות המפתח הנכונות שיובילו אותנו לגוגל למקומות הראשונים בגוגל ויגרמו לנו להגדיל הכנסות ולהביא יותר כסף לעסק.</p><p><br></p><p><b>4. מחקר של חומר:</b></p><p><b> </b>צריך לחפש חומר בכל מקום גוגל, פורומים בלוגים מאמרים. שימו לב, שעלינו לפעול ע\"פ חוק. ולכן אסור להעתיק מאתרים אחרים ללא אישור שכן כלל האצבע אומר שכל תוכן יש לו זכויות יוצרים אלא אם כן הוכח אחרת. חשוב לקחת חומר פפולארי ששותף בכל הרשתות החברתיות ופפולארי. כמו כן, על התוכן להיות עדכני,רלוונטי ואיכותי. תזכרו תמיד שעלינו להיות בלמידה מתמדת ולכן עלינו ללמוד מהצלחות וכישלונות של אחרים וללמוד מהמתחרים שלנו שנמצאים במקומות הראשונים בגוגל. עלינו לבדוק על מה הם כותבים, מה הם עושים ולממוד מהם.</p><p><br></p><p><b>5.תוכן זה לא רק טקסט- תוכן זה לא רק מלל:</b></p><p><b><br></b>זה בעיקר מלל אבל לא רק. עלינו לשים תמונות להמחשה. כמו כן, עלינו לשים סרטוני וידיאו ( לא מעט מחקרים הראו שיותר קל לקדם בגוגל או ביוטיוב סרטון מאשר אתר). יש לשים לב שגם התמונות וגם הוידאו יטענו במהירות המרבית - איטיות תגרום לגולשים לעזוב את המאמר. מומלץ לא לשים סרטון ארוך מידי ע\"מ שלא לייאש את המשתמשים. כמו כן, חלק מהפרמטרים לקידום סרטון זה האם הגולש צפה עד הסוף ואם הסירטון יהיה ארוך מידי סבירות גבוהה שהלקוח לא יצפה עד הסוף.</p><p><br></p><p><b>6. שהתוכן יהיה נוח וקריא:</b></p><p><b> </b>הקפידו שהתוכן יעבור הגהה מסודרת. שיהיה נוח לקריאה ע\"י סימני פיסוק מתאימים, ריווח שורות, פונט נוח וקריא לעין, גודל טקסט נוח ( אל תוציאו לקוראים את העיניים).</p><p><br></p><p><b>7. תמונת שיתוף ותמונה ראשית איכותית:</b></p><p><b><br></b><span style=\"line-height: 1.5;\">אנשים רבים נוטים להסתכל על תמונות טיזר ועל פי זה עלולים לקבל החלטה האם להיכנס לכתבה. ולכן על התמונה להיות באיכות גבוהה ברזולוצייה גבוהה. כמו כן, התמונה צריכה להיות עניינית מסקרנת ומושכת</span></p><p><br></p><p><b>8. כתבו הרבה מלל- הרבה טקסט:</b></p><p>מחקרים רבים הראו שהתוצאות הראשונות בגוגל שמורות לאנשים שכתבו יותר מ2000 מילים בממוצע. ולמקום הראשון מעל 2400 מילים. ולכן עלינו לכתוב, ולכתוב הרבה. עם זאת, חשוב לזכור שצריך לכתוב בצורה עניינים מתומצתת ורלוונטית ולא משוכפלת.</p><p><br></p><p><b>9. תנו לגולשים להגיב ולשתף:</b></p><p>עליכם לשים כפתורי שיתוף לכל מאמר בכל הרשתות החברתיות ( אינסטגרם,פייסבוק,טוויטר,ווטסאפ וכ'ו). כמו כן , מומלץ לשים פלטפורמות שונות לתגובות בעמוד. אם לא תשימו אופציה קלה ונוחה להגיב ולשתף את המאמר לא סביר שגולשים יעשו פעולה מסוימת. וכך אנו מפסידים כניבות למאמרים ותנועה איכותית ואורגנית לאתר.</p><p><br></p><p><b>10. שהמאמר יתאים לכל גודל מסך ויוצג בו טוב-התאמה למובייל:</b></p><p>הרבה מן הגולשים שיכנסו לאתר יכנסו ממכשיר מובייל ובמידה והאתר לא מותאם למכשיר שלהם והקריאה לא תהיה נוחה לגולש הוא עלול לנטוש את האתר.</p><p><br></p><p><b>11. שתפו את המאמר בעצמכם:</b></p><p>עליכם לנסות לשתף את המאמר בכל מקום שתוכלו , קבוצות בפיסבוק, בטוייטר,באינטסגרם,בווטסאפ, בשלטי חוצות,ברדיו,בטלוויזי,בעיתונות וכ'ו.</p><p><b><br></b></p><p><b>12. קידום בסיסי seo &nbsp;למאמר:</b></p><p>ככל הנראה והידוע לנו עד היום נראה שאם התוכן טוב גם אם אנינו נעשה פעולות קידום בסיסיות ויהיה לנו תוכן טוב באתר נוכל להיות במקום הראשון בגוגל (\"התוכן הוא המלך\", אמר כבר ביל גייטס). עם זאת, מומלץ לעזור למנועי החיפוש ולגוגל בפרט להגיע למאמר ולתמונות שלנו באתר ולאנדקס אותו ואת התמונות בו. לכן עלינו לשים היררכיה מסודרת של כותרות. h1 &nbsp;ואח\"כ h2 &nbsp;ואח\"כ h3 &nbsp; וכן הלאה. ובנוסף, לשים כותרות לתמונות ( image alt tag &amp; iamge title) ע\"מ שגוגל ידע מה מופיע בתמונה ויאנדקס אותה. כמו כן חשוב לשים כותרת לעמוד עצמו ( עד 60 תווים ושתהיה רלוונטית ומושכת) ותיאור רלוונטי לעמוד עצמו.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "22px"
+            },
+            "H2": {
+              "font-size": "22px"
+            },
+            "H1": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "content1-6i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h1></h1><h1 style=\"text-align: start;\"></h1>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-6j",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-14-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "בניית אתרים בבאר שבע|עיצוב אתרים בבאר שבע",
+              "title": "בניית אתרים בבאר שבע|עיצוב אתרים בבאר שבע",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "צריך לדעת לעבוד נכון ולעבוד קשה ע\"מ להצליח."
+        },
+        {
+          "_params": {
+            "postsNumber": 5
+          },
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-6k",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-6l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "שתפו את העמוד&nbsp;<br>ברשתות החברתיות."
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-6m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "עקבו אחרינו",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/%D7%90%D7%95%D7%98%D7%A7%D7%A1-%D7%95%D7%95%D7%91-%D7%91%D7%A0%D7%99%D7%99%D7%AA-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%A8-%D7%A9%D7%91%D7%A2-08-9404992-1024608544332496/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/101488813562006279093\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/otexweb089404992/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "footer1-6n",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,

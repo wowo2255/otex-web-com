@@ -1773,3 +1773,96 @@ h6,
   color: #ffffff;
   font-size: 22px;
 }
+#menu-6e .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-6e .navbar-caption {
+  color: #ffffff;
+}
+#menu-6e .navbar-toggler {
+  color: #ffffff;
+}
+#menu-6e .close-icon::before,
+#menu-6e .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-6e .link,
+#menu-6e .dropdown-item {
+  color: #ffffff;
+}
+#menu-6e .link {
+  font-size: 1.25rem;
+}
+#menu-6e .dropdown-item,
+#menu-6e .nav-dropdown-sm .link {
+  font-size: 1.354rem;
+}
+#menu-6e .link:hover,
+#menu-6e .dropdown-item:hover,
+#menu-6e .link:focus,
+#menu-6e .dropdown-item:focus {
+  color: #000000;
+}
+#menu-6e .link[aria-expanded="true"],
+#menu-6e .dropdown-menu {
+  background: #171c2c;
+}
+#menu-6e .nav-dropdown-sm .link:focus,
+#menu-6e .nav-dropdown-sm .link:hover,
+#menu-6e .nav-dropdown-sm .dropdown-item:focus,
+#menu-6e .nav-dropdown-sm .dropdown-item:hover {
+  background: #232c44!important;
+}
+#menu-6e .navbar,
+#menu-6e .nav-dropdown-sm,
+#menu-6e .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-6e .nav-dropdown-sm .dropdown-menu {
+  background: #28324e;
+}
+#menu-6e .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-6e .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-6e .bg-color.transparent.opened .link:hover,
+#menu-6e .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#menu-6e .link[aria-expanded="true"],
+#menu-6e .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#header3-6f .mbr-section-title,
+#header3-6f .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-6h P {
+  text-align: right;
+  font-size: 22px;
+}
+#content1-6h H2 {
+  font-size: 30px;
+}
+#content1-6h H1 {
+  font-size: 36px;
+}
+#content1-6i P {
+  text-align: right;
+  font-size: 22px;
+}
+#content1-6i H2 {
+  font-size: 22px;
+}
+#content1-6i H1 {
+  font-size: 36px;
+}
+#social-buttons4-6m .mbr-section-title,
+#social-buttons4-6m .btn-social {
+  color: #fff;
+}
+#footer1-6n P {
+  color: #ffffff;
+  font-size: 22px;
+}
