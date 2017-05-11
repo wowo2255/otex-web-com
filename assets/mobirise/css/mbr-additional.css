@@ -490,7 +490,13 @@ h6,
   text-align: center;
 }
 #content1-4d H2 {
-  text-align: right;
+  text-align: center;
+}
+#content1-4d P {
+  text-align: center;
+}
+#content1-4d H4 {
+  text-align: center;
 }
 #social-buttons4-4i .mbr-section-title,
 #social-buttons4-4i .btn-social {

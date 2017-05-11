@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "אודות.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 205,
+    "uniqCompNum": 206,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/path2-9-128x93-1.png",
     "noImageResize": "",
@@ -215,7 +215,13 @@
               "text-align": "center"
             },
             "H2": {
-              "text-align": "right"
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "H4": {
+              "text-align": "center"
             }
           },
           "_anchor": "content1-4d",
@@ -224,7 +230,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1>&nbsp;בניית אתרים בבאר שבע| קידום אתרים בבאר שבע</h1><h2>קידום אתרים בגוגל (seo) הוא אומנות,</h2><h2> בין אם זה קידום אורגני או קידום ממומן.</h2><h3>בין סוגי האתרים שאנו בונים: אתרי תדמית, אתרים לעסקים קטנים, אתרים לחברות ועוד.</h3><h4>על איכות לא מתפשרים, אם אתם רוצים אתר מקצועי התקשרו עוד היום.</h4>"
+          "text": "<h1>&nbsp;בניית אתרים בבאר שבע| קידום אתרים בבאר שבע</h1><h1>קידום אתרים בגוגל (seo) הוא אומנות,</h1><h2> בין אם זה קידום אורגני או קידום ממומן.</h2><h3>בין סוגי האתרים שאנו בונים: אתרי תדמית, אתרים לעסקים קטנים, אתרים לחברות ועוד.</h3><h4>על איכות לא מתפשרים, אם אתם רוצים אתר מקצועי התקשרו עוד היום.</h4>"
         },
         {
           "_inherit": "social-buttons2",
