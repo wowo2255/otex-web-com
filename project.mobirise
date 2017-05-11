@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "index.html",
+    "currentPage": "הבלוג-עמוד 2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 206,
+    "uniqCompNum": 230,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/path2-9-128x93-1.png",
     "noImageResize": "",
@@ -1943,7 +1943,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "בדיקת seo.html",
               "alt": "קידום אורגני בגוגל בבאר שבע",
               "title": "קידום ממומן בגוגל בבאר שבע",
               "linkInNewWindow": false
@@ -1959,7 +1959,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "איך לעקוף את המתחרים בגוגל.html",
               "alt": "עיצוב אתרים למובייל בבאר שבע",
               "title": "בניית אתרים למובייל בבאר שבע",
               "linkInNewWindow": false
@@ -1981,8 +1981,8 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "מה זה עמוד נחיתה?",
-          "subtitle3": "טיפים לעמוד נחיתה",
+          "title3": "",
+          "subtitle3": "איך לעקוף את המתחרים בגוגל ?<br>טיפים<br> לע'ק'שק'מוד נחיתה",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"drop-page.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
           "media4": {
@@ -2175,7 +2175,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "האתר הכי טוב.html",
               "alt": "בניית אתר לעסק קטן|1",
               "title": "בניית אתר חינם",
               "linkInNewWindow": false
@@ -2191,7 +2191,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "מדידת פרסום ושיווק.html",
               "alt": "קידום אתרים בבאר שבע|2",
               "title": "קידום אתרים בבאר שבע|2",
               "linkInNewWindow": false
@@ -2207,7 +2207,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "עמוד נחיתה.html",
               "alt": "בניית אתרים בבאר שבע|1",
               "title": "בניית אתרים בבאר שבע|1",
               "linkInNewWindow": false
@@ -2223,7 +2223,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "איך להיות ראשון בגוגל.html",
               "alt": "קידום אתרים בבאר שבע",
               "title": "קידום אתרים בבאר שבע",
               "linkInNewWindow": false
@@ -2257,6 +2257,41 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5q",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "לעמוד הבא",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a>"
         },
         {
           "_tags": [
@@ -4304,6 +4339,614 @@
             }
           },
           "_anchor": "footer1-33",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "אוטקב ווב - בניית אתרים בבאר שבע.<br><a href=\"tos.html\">תנאי שימוש ומדיניות פרטיות</a>"
+        }
+      ]
+    },
+    "הבלוג-עמוד 2.html": {
+      "settings": {
+        "title": "אוטקס ווב|בלוג|08-9404992",
+        "meta_descr": "בניית אתרים בבאר שבע|קידום אתרים בבאר שבע| בניית אתרים|קידום בגוגל|בניית אתר לעסק| קידום אורגני|קידום ממומן|בניית אתרים| קידום אתרים| עיצוב אתרים| הנגשת אתרים",
+        "order": 7
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x395.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "פרסומות באתר.html",
+              "alt": "קידום אורגני בגוגל בבאר שבע",
+              "title": "קידום ממומן בגוגל בבאר שבע",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "פרסומות שיכולות להרוס את הקידום שלכם",
+          "subtitle1": "האם לשים פרסומות באתר?",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"פרסומות באתר.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "עיצוב אתרים למובייל בבאר שבע",
+              "title": "בניית אתרים למובייל בבאר שבע",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "איך להיות ראשון בגוגל ע\"י כתיבת תוכן",
+          "subtitle2": "איך לכתוב את המאמר המושלם",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"איך לעקוף את המתחרים בגוגל.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
+          "media3": {
+            "image": {
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "בניית אתרים בבאר שבע|1",
+              "title": "בניית אתרים בבאר שבע|1",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "",
+          "subtitle3": "איך לעקוף את המתחרים בגוגל ?<br>טיפים<br> לע'ק'שק'מוד נחיתה",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"drop-page.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
+          "media4": {
+            "image": {
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "קידום אתרים בבאר שבע",
+              "title": "קידום אתרים בבאר שבע",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "איך להיות ראשון בגוגל?",
+          "subtitle4": "טיפים ועצות לקידום האתר בגוגל",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"first-in-google.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.25rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.354rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5s",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.25",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "60",
+              "active": true,
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"צור קשר.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"הבלוג.html\">הבלוג</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"אודות.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"למה אנחנו.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "footer1-5t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "אוטקב ווב - בניית אתרים בבאר שבע.<br><a href=\"tos.html\">תנאי שימוש ומדיניות פרטיות</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-5w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "שתפו את העמוד&nbsp;<br>ברשתות החברתיות."
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-5x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "עקבו אחרינו",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/%D7%90%D7%95%D7%98%D7%A7%D7%A1-%D7%95%D7%95%D7%91-%D7%91%D7%A0%D7%99%D7%99%D7%AA-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%A8-%D7%A9%D7%91%D7%A2-08-9404992-1024608544332496/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/101488813562006279093\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/otexweb089404992/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "פרסומות באתר.html": {
+      "settings": {
+        "title": "אוטקס ווב|08-9404992|פרסומות באתר",
+        "meta_descr": "מה זה עמוד נחיתה? איך בונים עמוד נחיתה? האם כדי לבנות עמוד נחיתה או אתר אינטרנט. טיפים ועצות לעמוד נחיתה. הקמת עמוד נחיתה מאפס במהירות.",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.25rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.354rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5y",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.25",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "60",
+              "active": true,
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">אוטקס ווב<br>בניית אתרים<br>08-9404992<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"צור קשר.html\">צור קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"הבלוג.html\">הבלוג</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"אודות.html\">אודות</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"למה אנחנו.html\">למה אנחנו ?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">עמוד הבית</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-60",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-12-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "בניית אתרים בבאר שבע|בניית אתר תדמית בבאר שבע",
+              "title": "בניית אתרים בבאר שבע|בניית אתר תדמית בבאר שבע",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "22px"
+            },
+            "H2": {
+              "font-size": "30px"
+            },
+            "H1": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "content1-61",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h1></h1><h1><span style=\"color: inherit; line-height: 1.1;\">האם פרסומות משפיעות על קידום אתרים ? </span></h1><h2><span style=\"color: inherit;\">האם לשים פרסומות באתר ? איך אפשר להרוויח כסף מאתר ?</span></h2><p>ע\"פ מס' מאמרים מגוגל, גוגל הולכת להעניש אתרים שמפרסמים פרסומות שמפריעות לגולש להשיג את המידע שלו הוא כה זקוק.</p><p><br></p><h1>איזה סוגי פרסומות יש?</h1><p><b>1. פופ אפ -</b> כן זה אותם חלונות מרגיזים שקופצים ללא סוף בכל אתר. לפעמים אפילו אם תלחצו איקס אז יפתחו עוד אינספור חלונות. אז ע\"פ מס' מקורות, נראה שגוגל הולכת להעניש את כל האתרים ששמים פרסומות קופצות. ואתרים אלה עלולים להידחק למקומות לא ריאלים בגוגל וזה גם באם יש להם תוכן איכותי.</p><p><b><br></b></p><p><b>2. מעברון קופץ- </b>ישנם אתרים שמציגים מעברונים מסוימים שמכריחים לתת לייקים,שיתופים, לעקוב אחריהם וכ'ו. בנוסף, יש מעברונים שיכריחו אתכם ללחוץ על האיקס כאשר לחצן זה קטן מאוד לא נראה או לא עובד בכוונה תחילה. מעבר לכך שגוגל יכולה להעניש אתכם יש לקחת בחשבון שהלקוחות שלכם נפגעים באופן ישיר, הם עלולים להתעצבן ולנטוש את האתר באמצע.</p><p><b><br></b></p><p><b>3. באנרים- </b>אותן פרסומות בצדדים שהם לגיטימיים כל עוד לא מכסים את התוכן. אך ברגע, שהבאנרים מכסים את התוכן גוגל עללה להעניש אותנו. בנוסף, הגולשים והלקוחות עלולים להתרגז מכך שהתוכן מוסתר, להתייאש ולנטוש את האתר.</p><p><b><br></b></p><h1 style=\"text-align: start; \"><span style=\"text-align: right;\">איך לפרסם באתר בלי לעצבן את הגולשים ואת גוגל ?</span></h1><h2><span style=\"text-align: right;\">אז קודם כל איזה שיטות לפרסום יש באתר ?</span></h2><h1 style=\"text-align: start; \"><span style=\"font-size: 22px; line-height: 1.5; text-align: right; color: inherit;\">1. לבקש יפה-<span style=\"font-weight: normal;\">&nbsp;בגלל הטכנולוגיה האימתנית שיש כיום, הרי כל לקוח ממוצע יודע איך לחסום כל פרסומת (יש אינספור תוכנות ותוספים כדוגמת ad block וכ'ו). לכן אתרים רבים מבקשים מהלקוחות שמתמשים בחוסמי פרסומות להסיר את חוסם הפרסומות. חלק משיטות השיווק הכי חזקות זה פשוט לבקש. מסתבר שהיו הרבה מחקרים שהראו שכאשר מבקשים הלקוחות ברובם נעתרים לבקשה.</span></span></h1><h1 style=\"text-align: start; \"><span style=\"font-size: 22px; line-height: 1.5; text-align: right; color: inherit;\">2.להשתמש בכוח- <span style=\"font-weight: normal;\">לחסום גולשים שמשתמשים בחוסם פרסומות עד שיסירו אותו ורק אז יוכלו לגלוש באתר. שיטה זו עלולה לעצבן גולשים רבים שיברחו מהאתר.</span></span></h1><h1 style=\"text-align: start; \"><span style=\"font-size: 22px; line-height: 1.5; text-align: right; color: inherit;\">3. להשתמש בהרבה כוח -לעקוף את כל חוסמי הפרסומות - <span style=\"font-weight: normal;\">לא לשאול את הגולשים. פשוט לעקוף את כל חוסמי הפרסומות ולהפציץ את הגולש בפרסומות. שיטה זו היא האגרסיבית ביותר והיא עלולה לגרום לאתר שלכם להיענש קשות ע\"י גוגל ולייאש רבות מן הלקוחות.</span></span></h1><h1 style=\"text-align: start; \"><span style=\"font-size: 22px; line-height: 1.5; text-align: right; color: inherit;\">4. לבדוק אם בכלל אנחנו רוצים לשים פרסומות-<span style=\"font-weight: normal;\"> לא בכל אתר מומלץ לשים פרסומות. לפחות לא בתחילת הדרך. צריך לבדוק האם הפרסום רווחי ( זה תלוי בהרבה פרמטרים כגון: כמות גולשים, מס' הלחיצות ממוצע שאנשים באתר נכנסים לפרסומות וכ'ו). במידה והפרסום לא רווחי לא חייב לפרסם באתר. לפעמים הפרסומות עלולות לגרום לאתר שלא להתקדם בגוגל וגם לא להיות רווחיות. חשוב להיות יעילים.&nbsp;</span></span></h1>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "22px"
+            },
+            "H2": {
+              "font-size": "22px"
+            },
+            "H1": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "content1-6d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h1></h1><h1 style=\"text-align: start;\"><span style=\"text-align: right;\">איך לפרסם נכון באתר בלי לעצבן את הגולשים ואת גוגל?&nbsp;</span></h1><h2><span style=\"font-size: 22px; text-align: right; line-height: 1.5;\">השיטה לפרסום שלא יעצבן את הלקוחות:</span></h2><p><b>1. לא להסתיר תוכן - </b>פרסומות שמסתירות תוכן עלולה לפגוע בקידום האתר ובמשתמשים שלכם.<b>&nbsp;</b></p><p><b>2.לא לשים חלונות קופצים או מעברונים שלא ניתן לסגור- </b>המטרה לא להציק ללקוח ולגרום לו להתעצבן ולהתייאש מהאתר.</p><p><b>3. לעבוד חכם- </b>לבקש מהלקוח להסיר את חוסם הפרסומות. ואם אותו לקוח לא הסיר את חוסם הפרסומות אז לשים לו פרסומות ללא בקשתו אך בצורה חכמה ויעילה שלא תסתיר לו תוכן או תעצבן אותו. לדוגמא לשים באנרים בצדדים.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-62",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-13-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "בניית אתרים בבאר שבע|עיצוב אתרים בבאר שבע",
+              "title": "בניית אתרים בבאר שבע|עיצוב אתרים בבאר שבע",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "אל תגרמו לגולשים להיות בדיכאון מהאתר שלכם בגלל פרסומות."
+        },
+        {
+          "_params": {
+            "postsNumber": 5
+          },
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-69",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-6a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "שתפו את העמוד&nbsp;<br>ברשתות החברתיות."
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-6b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "עקבו אחרינו",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/%D7%90%D7%95%D7%98%D7%A7%D7%A1-%D7%95%D7%95%D7%91-%D7%91%D7%A0%D7%99%D7%99%D7%AA-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%A8-%D7%A9%D7%91%D7%A2-08-9404992-1024608544332496/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/101488813562006279093\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/otexweb089404992/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "footer1-6c",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
