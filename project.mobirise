@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "First-in-google.html",
+    "currentPage": "Blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2908,7 +2908,7 @@
           "title2": "מדידת שיווק",
           "subtitle2": "ידע זה כוח",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"מדידת פרסום ושיווק.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Test-ad.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">לקריאה נוספת</a>",
           "media3": {
             "image": {
               "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/coworkers.jpg",
