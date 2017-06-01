@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "בניית אתרים בבאר שבע|08-9404992",
-    "currentPage": "tos.html",
+    "currentPage": "Bypass-your-competitors.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 343,
+    "uniqCompNum": 345,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/path2-9-128x93-1.png",
     "noImageResize": "",
@@ -246,7 +246,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-8v",
+          "_anchor": "msg-box3-9j",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -268,7 +268,7 @@
           },
           "title": "שתף בווטסאפ",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=%D7%A9%D7%AA%D7%A4%D7%95 %D7%91%D7%95%D7%95%D7%98%D7%A1%D7%90%D7%A4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=whatsapp://send?text=https://www.otex-web.tk/\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
         },
         {
           "_tags": [
@@ -898,12 +898,6 @@
             ".mbr-section-title, p": {
               "color": "#000"
             },
-            ".mbr-section-title": {
-              "color": "#28324e"
-            },
-            "SPAN": {
-              "font-size": "48px"
-            },
             ".btn": {
               "font-size": "30px"
             }
@@ -912,7 +906,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-93",
+          "_anchor": "msg-box3-9k",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -932,9 +926,9 @@
             "showText": false,
             "showButton": true
           },
-          "title": "שתפו בווטסאפ",
+          "title": "שתף בווטסאפ",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"&lt;a href=&quot;whatsapp://send&quot; data-text=&quot;אוטקס ווב|בניית אתרים באינטרנט&quot; data-href=&quot;&quot; class=&quot;wa_btn wa_btn_s&quot; style=&quot;display:none&quot;&gt;Share&lt;/a&gt;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share&nbsp;</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=%D7%A9%D7%AA%D7%A4%D7%95 %D7%91%D7%95%D7%95%D7%98%D7%A1%D7%90%D7%A4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
         },
         {
           "_tags": [
@@ -1355,7 +1349,7 @@
           },
           "title": "שתף בווטסאפ",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=%D7%A9%D7%AA%D7%A4%D7%95 %D7%91%D7%95%D7%95%D7%98%D7%A1%D7%90%D7%A4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=https://www.otex-web.tk/Contact-Us.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
         },
         {
           "_tags": [
@@ -1639,7 +1633,7 @@
           },
           "title": "שתף בווטסאפ",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=%D7%A9%D7%AA%D7%A4%D7%95 %D7%91%D7%95%D7%95%D7%98%D7%A1%D7%90%D7%A4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=https://www.otex-web.tk/About.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
         },
         {
           "_tags": [
@@ -2287,7 +2281,7 @@
           },
           "title": "שתף בווטסאפ",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=%D7%A9%D7%AA%D7%A4%D7%95 %D7%91%D7%95%D7%95%D7%98%D7%A1%D7%90%D7%A4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"whatsapp://send?text=https://www.otex-web.tk/Why-US.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Share</a>"
         },
         {
           "_tags": [
